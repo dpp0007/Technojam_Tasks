@@ -1,7 +1,7 @@
 <div><h1> Project Link </h1></div>
 <h3>I have done all the task of Ui/Ux all three of them are in one file.<br> 
 The Medi Link is Protoyped & Cash Flex UI is scrollable.</h3>
-<div><p>https://www.figma.com/design/drCPPAapEueEaixNO2rFnG/Technojam_task?node-id=0-1&t=UOoq0p2ilK1XhpFi-1</p>
+<div><p>🔗 https://www.figma.com/design/drCPPAapEueEaixNO2rFnG/Technojam_task?node-id=0-1&t=UOoq0p2ilK1XhpFi-1</p>
 <div>
 
 <div><h4><p>
