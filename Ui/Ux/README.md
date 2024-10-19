@@ -3,7 +3,7 @@
 The Medi Link is Protoyped & Cash Flex UI is scrollable.</h3>
 <div><p>https://www.figma.com/design/drCPPAapEueEaixNO2rFnG/Technojam_task?node-id=0-1&t=UOoq0p2ilK1XhpFi-1</p>
 <div>
-<br><br><br>
+<br>
 <div><h4><p>
 Working on this task was a valuable learning experience where I developed skills in asset creation,<br>
 Figma plugins, animations, scroll behavior, and prototyping.<br>
