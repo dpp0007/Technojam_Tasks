@@ -1,4 +1,4 @@
-<div style="font-family: Arial, sans-serif;padding: 20px;  max-width: 800px; margin: auto;" >
+<div style="font-family: Arial, sans-serif;padding: 20px;  max-width: 800px; " >
     <h1 style="color: #4CAF50; text-align: center;">Technojam Tasks</h1>
     <div style="line-height: 1.8;">
         <p><span style="color: #007BFF; font-weight: bold;">Name:</span> Deepankr Patel</p>
