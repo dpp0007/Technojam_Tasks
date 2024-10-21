@@ -17,4 +17,4 @@
 -Space complexity is O(1) as it uses the same array to store the value.<br>
 -I have faced problem in storing the char count if its exceeds 9 so i took help from yt and learned the concept.<br>
 
-## **I have done only three qustion because currently I am learning DSA and my concepts aren't clear for those questions**
+## **I have done only three qustion because currently I am learning DSA and my concepts aren't clear for other questions**
